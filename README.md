@@ -1,7 +1,7 @@
 # piecegluing
 Implementation of enumeration of convex polygons constructed by gluing unit angle triangles, which is presented at 8OSME
 as "Efficient Enumeration of Rectangles in Origami Design" by
-K. Ouchi (me), H. Komatsu, R. Uehara".
+K. Ouchi (me), H. Komatsu, R. Uehara.
 
 ## Required environment
 * Java 17
